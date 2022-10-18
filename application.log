@@ -1,0 +1,8 @@
+Hello world
+Ups
+┌───────────┬───────────┐
+│  (index)  │  Values   │
+├───────────┼───────────┤
+│ firstName │  'Nala'   │
+│ lastName  │ 'Azzahra' │
+└───────────┴───────────┘
